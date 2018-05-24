@@ -1,5 +1,4 @@
-public class  {
-  public String[] tokenize(String[] tokens, String input) {
-
+public class #CLASSNAME {
+  public #RETURNTYPE #METHODNAME(#INPUTS) {
   }
 }
